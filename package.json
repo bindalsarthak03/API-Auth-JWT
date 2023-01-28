@@ -1,0 +1,26 @@
+{
+  "name": "api-auth-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bindalsarthak03/API-Auth-JWT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bindalsarthak03/API-Auth-JWT/issues"
+  },
+  "homepage": "https://github.com/bindalsarthak03/API-Auth-JWT#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
